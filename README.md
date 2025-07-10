@@ -18,6 +18,13 @@ This project focuses on classifying seven types of dry beans using morphological
 
 ---
 
+## 🛠️ Tools & Libraries
+
+- **Google Colab** (Python)
+- Python: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+---
+
 ## 📊 Dataset Description
 
 - **Source**: UCI Machine Learning Repository  
@@ -41,16 +48,6 @@ This project focuses on classifying seven types of dry beans using morphological
 
 ---
 
-## 🛠️ Tools & Libraries
-
-- Python
-- Google Colab
-- Scikit-learn
-- Pandas
-- Seaborn & Matplotlib
-
----
-
 ## 🧾 Key Takeaways
 
 - SVM performs very well on multi-class classification with proper preprocessing.
@@ -61,9 +58,3 @@ This project focuses on classifying seven types of dry beans using morphological
 ## 🔗 Reference
 
 - Dataset: [UCI Dry Bean Dataset](https://archive.ics.uci.edu/ml/datasets/dry+bean+dataset)
-
----
-
-## 📫 Contact
-
-Created by [Your Name] – feel free to connect!
